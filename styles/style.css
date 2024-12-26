@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: "Bebas Neue", serif;
+    background-color: rgb(228, 239, 249);
+}
+
+header {
+    background-color: blueviolet;
+    width: 100%;
+    height: 75px;
+    align-content: center;
+}
+
+.Logo-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Product-card {
+    padding: 10px;
+    max-height: 400px;
+    max-width: 190px;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+
+.Product-card h3 {
+    flex-grow: 1;
+}
+
+.P-alurageek {
+    font-size: 40px;
+}
+
+.Main-container {
+    display: flex;
+    width: 100%;
+    margin: 20px;
+}
+
+.Products-container {
+    max-width: 700px;
+    box-sizing: border-box;
+}
+
+.Products-container h1 {
+    text-align: center;
+    font-size: 32px;
+    font-family: "Bebas Neue", serif;
+}
+
+.Products-wrapper {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 13px;
+    align-items: center;
+    justify-content: center;
+}
+
+.Product-card {
+    height: 395px;
+    border: 2px solid #000000;
+}
+
+h4, h5 {
+    margin: 5px;
+    font-size: 18px;
+}
+
+h5 {
+    color: rgb(12, 169, 4);
+}
+
+.Product-card img {
+    margin: 2px 3px;
+    width: 170px;
+    height: 140px;
+    border-radius: 10px;
+}
+
+.Add-products {
+    width: 400px;
+    height: 600px;
+    background-color: transparent;
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+}
+
+.Forms {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    padding: 10px;
+}
+
+.Forms input {
+    width: 300px;
+    border-radius: 15px;
+    height: 40px;
+    text-indent: 5px;
+    font-family: "Bebas Neue", serif;
+    box-shadow: 0 -3px 6px rgba(0, 0, 0, 0.15), 0 3px 6px rgba(0, 0, 0, 0.15);
+    border: none;
+}
+
+input:focus {
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2), 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-color: #1b6eb7;
+    outline: none;
+}
+
+.Buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.Buttons button {
+    width: 120px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#Save {
+    background-color: rgb(134, 238, 130);
+}
+
+
+#Delete {
+    background-color: rgb(238, 78, 78);
+}
+
+#Delete:hover {
+    background-color: rgba(238, 78, 78, 0.733);
+}
+#Save:hover {
+    background-color: rgba(134, 238, 130, 0.51);
+}
+
+footer {
+    background-color: blueviolet;
+    width: 100%;
+    height: 100px;
+    align-content: center;
+    font-size: 40px;
+}

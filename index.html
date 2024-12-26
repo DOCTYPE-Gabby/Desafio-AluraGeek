@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <style>@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');</style>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div class="Logo-text">
+        <img src="Imagens/logo 2.png" width="130" height="40"> <p class="P-alurageek">AluraGeek</p>
+        </div>
+    </header>
+    <main class="Main-container">
+    <div class="Products-container">
+        <h1>Meus Produtos:</h1>
+       
+     <ul class="Products-wrapper" data-list>
+       
+         </ul>
+    </div>
+        <aside class="Add-products">
+            <h1> Adicionar Produtos:</h1>
+            <form data-forms class="Forms">
+                <input data-name type="text" placeholder="Nome" required>
+                <input data-description type="text" placeholder="Descrição" required>
+                <input data-price type="text" placeholder="Preço" required>
+                <input data-image type="text" placeholder="Imagem" required>
+                <div class="Buttons">
+                    <button type="submit" id="Save">Guardar</button>
+                    <button type="button" data-id id="Delete">Excluir</button>
+                </div>
+            </form>
+
+        </aside>
+     
+    </main>
+
+    <footer>  <div class="Logo-text">
+        <img src="Imagens/logo 2.png" width="130" height="40"> <p class="P-alurageek">AluraGeek</p>
+        </div> <p ></p> </footer>
+
+   
+   <script type="module" src="js/services/main.js"></script>
+</body>
+</html>

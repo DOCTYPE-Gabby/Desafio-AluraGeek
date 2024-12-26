@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "productname": " Sony PlayStation 4 Slim",
+      "price": "R$: 1.500,50",
+      "image": "./products/consoles/ps4_slim.png",
+      "description": "Console de videogame da Sony com design compacto, suporte a jogos exclusivos, gráficos HD e grande biblioteca de títulos.",
+      "id": 2
+    },
+    {
+      "productname": "Xbox Series S",
+      "price": "R4: 2.399,99",
+      "image": "./products/consoles/xbox_series_s.png",
+      "description": "Console compacto e acessível da Microsoft, com jogos em 1440p, armazenamento SSD e integração com o Xbox Game Pass.",
+      "id": 3
+    },
+    {
+      "productname": "Controle PS4 Red Dead Redemption",
+      "price": "R$: 250,00",
+      "image": "./products/peripherals/controllers/controlerdr.jpg",
+      "description": "Controle customizado inspirado em Red Dead Redemption, vermelho vibrante, botões de metal dourados, e comandos estilizados como balas de revólver.",
+      "id": 4
+    },
+    {
+      "productname": "Controle 8-Bit-Do Ultimate C",
+      "price": "R$: 180,00",
+      "image": "./products/peripherals/controllers/8_bit_do_ultimate_c.jpeg",
+      "description": "Controle 8-bit Ultimate C para PC, design clássico, botões responsivos, compatível com jogos retro, conexão USB, simples e funcional.",
+      "id": 5
+    },
+    {
+      "productname": "Controle FlyDigi Direwolf",
+      "price": "R$: 120,00",
+      "image": "./products/peripherals/controllers/direwolf.jpg",
+      "description": "Controle ergonômico para mobile e PC, com analógicos anti-drift, gatilhos Hall Effect, design robusto e excelente precisão.",
+      "id": 6
+    },
+    {
+      "productname": "Controle Original Xbox One Branco",
+      "price": "R$: 119,99",
+      "image": "./products/peripherals/controllers/xbox_one.png",
+      "description": "Ergonômico, botões responsivos, gatilhos vibratórios, conexão Bluetooth e compatibilidade com PCs e consoles Xbox modernos.",
+      "id": 7
+    },
+    {
+      "productname": "Teclado Mecânico MACHENIKE Air-50",
+      "price": "R$: 220,99",
+      "image": "./products/peripherals/keyboards/machenike_air_50.jpeg",
+      "description": "Teclado mecânico com switches Huano Red oferece uma digitação suave e silenciosa, com resposta rápida, toque linear e sensação confortável, ideal para jogos e produtividade. ",
+      "id": 8
+    },
+    {
+      "productname": "Celular Apple iPhone 13",
+      "price": "R$: 3.999,99",
+      "image": "./products/smartphones/iphone_13.jpeg",
+      "description": "Smartphone premium da Apple com câmera avançada, chip A15 Bionic, tela OLED, bateria eficiente e design elegante em alumínio.",
+      "id": 9
+    },
+    {
+      "productname": "Celular Apple iPhone 14",
+      "price": "R$: 4.799,99",
+      "image": "./products/smartphones/iphone_14.png",
+      "description": "Smartphone avançado da Apple com melhorias na câmera, chip A15 otimizado, tela Super Retina XDR e conectividade via satélite",
+      "id": 10
+    },
+    {
+      "productname": "Action Figure Spider Man Miles Morales",
+      "price": "R$: 259,99",
+      "image": "./products/others/miles_morales.png",
+      "description": "Action figure do Miles Morales, com traje preto e vermelho, detalhes dinâmicos, pose de ação, articulações móveis, acessório de teia.",
+      "id": 11
+    },
+    {
+      "productname": "Funko Pop Arthur Morgan RDR 2",
+      "price": "R$: 99,99",
+      "image": "./products/others/funko_pop_arthur_morgan.jpg",
+      "description": "Boneco estilo Funko Pop do Arthur Morgan, detalhes fiéis, chapéu icônico, roupa do velho oeste, e arma emblemática do personagem.",
+      "id": 12
+    },
+    {
+      "productname": "Funko Pop Dean Winchester Supernatural",
+      "price": "R$: 69,99",
+      "image": "./products/others/funko_pop_dean.jpeg",
+      "description": "Boneco do Dean Winchester de Supernatural, usando jaqueta jeans, camisa casual, cabelo estilizado e segurando uma faca de combate.",
+      "id": 13
+    },
+    {
+      "productname": "Action Figure Sonic",
+      "price": "R$: 199,99",
+      "image": "./products/others/sonic_figure.png",
+      "description": "Action figure do Sonic, com detalhes vibrantes, pose de corrida, sapatos vermelhos, articulações móveis, expressão determinada, baseado no design clássico.",
+      "id": 14
+    },
+    {
+      "productname": "Pikachu Plush",
+      "price": "R$: 199,99",
+      "image": "./products/others/pikachu_plush.png",
+      "description": "Pelúcia do Pikachu, macia e detalhada, com orelhas pontudas, bochechas vermelhas, sorriso amigável, corpo amarelo vibrante e cauda elétrica.",
+      "id": 15
+    },
+    {
+      "productname": "Sony PlayStation 5",
+      "price": "R$: 3.950,00",
+      "image": "./products/consoles/ps5.jpg",
+      "description": "O PlayStation 5 (PS5) é um console de videogame avançado com gráficos 4K, carregamento rápido, controle inovador, áudio 3D e jogos exclusivos para uma experiência imersiva.",
+      "id": 16
+    }
+  ]
+}
